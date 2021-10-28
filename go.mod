@@ -1,4 +1,4 @@
-module pkg
+module genid
 
 go 1.17
 
